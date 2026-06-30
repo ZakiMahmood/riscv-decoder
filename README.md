@@ -1,7 +1,7 @@
 # riscv-decoder
 
-A command-line RV32I instruction decoder, written for the MEDS Module 2 grand
-assignment (Summer Training Programme 2026, Cohort 4). It reads a hex file
+A command-line RV32I instruction decoder, for grand
+assignment (Module_2). It reads a hex file
 containing RISC-V machine code (one 32-bit instruction per line) and prints
 the decoded assembly for each instruction.
 
