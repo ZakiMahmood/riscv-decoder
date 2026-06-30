@@ -7,8 +7,7 @@ the decoded assembly for each instruction.
 
 This is basically the front end of a CPU simulator — fetch the raw word,
 pull the opcode/funct3/funct7 fields out of it, figure out which instruction
-it is, and print it in a readable form. The actual execution part comes
-later in the training (Weeks 3-4).
+it is, and print it in a readable form.
 
 ## Supported instructions
 
